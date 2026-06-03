@@ -48,6 +48,28 @@ Timeline and Milestones
 Week 1–4 development phases
 
 
-Budget
+Budget 
+
+Domain, hosting, development, maintenance
+
+Website Assets
+
+Picture 1: Fresh beef products Source: Pexels (2026)
+
+Picture 2: Cattle farm
+
+Source: Unsplash (2026)
+
+Picture 3: Butchery display Source: Pexels (2026)
+
+Picture 4: Packaged meat Source: Unsplash (2026)
+
+These images represent Musa Meat’s products and environment. They improve visual appeal and help users understand the business offerings.
+
+
+Sitemap and Structure
+
+
+Webpages and Content
 
 Domain, hosting, development, maintenance
